@@ -1,0 +1,2 @@
+db001/root/Bond007/A/M
+db002/root/Bond007/N/Z
